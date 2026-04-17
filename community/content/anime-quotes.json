@@ -551,20 +551,6 @@
   "character": "Kamina"
 },
 {
-  "japanese": "心を燃やせ",
-  "romaji": "Kokoro o moyase",
-  "english": "Set your heart ablaze.",
-  "anime": "Demon Slayer: Kimetsu no Yaiba",
-  "character": "Kyojuro Rengoku"
-},
-{
-  "japanese": "生きるとは、人と繋がることだ",
-  "romaji": "Ikiru to wa, hito to tsunagaru koto da",
-  "english": "Living means connecting with others.",
-  "anime": "I Want to Eat Your Pancreas",
-  "character": "Sakura Yamauchi"
-},
-{
   "japanese": "やれやれだぜ",
   "romaji": "Yare yare da ze",
   "english": "Good grief. (alt wording 6)",
@@ -591,5 +577,19 @@
   "english": "From here, to the world, pain.",
   "anime": "Naruto Shippuden",
   "character": "Pain"
+},
+{
+  "japanese": "心を燃やせ",
+  "romaji": "Kokoro o moyase",
+  "english": "Set your heart ablaze.",
+  "anime": "Demon Slayer: Kimetsu no Yaiba",
+  "character": "Kyojuro Rengoku"
+},
+{
+  "japanese": "生きるとは、人と繋がることだ",
+  "romaji": "Ikiru to wa, hito to tsunagaru koto da",
+  "english": "Living means connecting with others.",
+  "anime": "I Want to Eat Your Pancreas",
+  "character": "Sakura Yamauchi"
 }
 ]
