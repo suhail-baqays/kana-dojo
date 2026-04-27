@@ -14,7 +14,7 @@
     "file": "docs/community-notes/contribution-notes-2.md",
     "position": "top",
     "text": "> Community note: this page intentionally accepts tiny formatting-safe edits.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -38,7 +38,7 @@
     "file": "docs/community-notes/archival-notes.md",
     "position": "bottom",
     "text": "- Additional community note preserved for documentation housekeeping.",
-    "issued": false,
+    "issued": true,
     "completed": false
   }
 ]
